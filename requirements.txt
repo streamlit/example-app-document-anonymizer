@@ -1,3 +1,4 @@
 streamlit
 spacy
 st-annotated-text
+importlib-metadata
