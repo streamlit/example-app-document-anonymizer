@@ -8,6 +8,7 @@ streamlit = "*"
 spacy = "*"
 spacy-streamlit = "*"
 st-annotated-text = "*"
+importlib-metadata = "*"
 
 [dev-packages]
 black = "*"
