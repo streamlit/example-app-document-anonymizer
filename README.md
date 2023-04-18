@@ -1,1 +1,1 @@
-# example-app-document-anonymizer
+# Document Anonymizer
